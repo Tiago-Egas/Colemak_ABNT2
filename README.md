@@ -18,3 +18,6 @@ This was made with MSKLC:
  The ALT-GR: 
  
  ![PTBRAltGr](https://user-images.githubusercontent.com/25328280/184947408-95dbace0-6acb-4088-a935-68790f0e45f3.jpg)
+
+The Autohotkey folder have a on-screen layout updated with this layout so new learners can always look up and stop hunt and peek;
+This on-screen layout was made by Øystein Bech Gadmar, and have big room for improvements; 
